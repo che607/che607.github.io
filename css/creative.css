@@ -81,6 +81,14 @@ img::-moz-selection {
   color: white;
   background: transparent; }
 
+.consulting {
+  width: 400px;
+  height:  267.2px; }
+
+.modernize {
+  width: 400px;
+  height:  267.2px; }
+
 body {
   -webkit-tap-highlight-color: #222222; }
 
