@@ -10,6 +10,16 @@
   background: #0b0b0b;
   opacity: 0.8; }
 
+.consulting {
+  margin: auto;
+  display: block; }
+
+.modernize {
+  width: 400px;
+  height:  267.2px;
+  margin: auto;
+  display: block; }
+
 .mfp-wrap {
   top: 0;
   left: 0;
