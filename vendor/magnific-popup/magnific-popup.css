@@ -28,6 +28,12 @@
   margin: auto;
   display: block; }
 
+.polls {
+  width: 325px;
+  height: 143px;
+  margin: auto;
+  display: block; }
+
 .mfp-wrap {
   top: 0;
   left: 0;
